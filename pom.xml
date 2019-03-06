@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mil.nga</groupId>
-	<artifactId>EFD</artifactId>
+	<artifactId>EFD-modernized</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EFD</name>
+	<name>EFD-modernized</name>
 	<description>Spring template for EFD</description>
 
 	<properties>
