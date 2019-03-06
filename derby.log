@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Wed Mar 06 06:37:47 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0169-5302-80be-0000126bea28 
+on database directory /home/carpenlc/projects/EFD-web/EFD/mydb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/home/carpenlc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-0ubuntu0.16.04.1-b12
+user.dir=/home/carpenlc/projects/EFD-web/EFD
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Mar 06 06:56:18 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c38ac0ee-0169-5302-80be-0000126bea28 
+on database directory /home/carpenlc/projects/EFD-web/EFD/efd with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/home/carpenlc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-0ubuntu0.16.04.1-b12
+user.dir=/home/carpenlc/projects/EFD-web/EFD
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
